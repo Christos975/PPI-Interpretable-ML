@@ -138,7 +138,7 @@ The dataset is publicly available on Kaggle:
 **Statistics:**
 - 73,118 protein pairs (balanced: 36,630 PPI + 36,488 Non-PPI)
 - 10,344 unique proteins
-- Train/Test split: 80% / 20% (seed=42)
+- Train/Test/Val split: 80% / 10% / 10% (seed=42)
 
 Download and place the files in the `data/` folder:
 ```
