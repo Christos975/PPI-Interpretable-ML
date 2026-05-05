@@ -200,7 +200,7 @@ If you use this work, please cite:
 ```bibtex
 @mastersthesis{ppi_interpretable_2026,
   title  = {Ερμηνεύσιμη Μηχανική Μάθηση σε Δίκτυα Αλληλεπίδρασης Πρωτεϊνών (PPI)},
-  author = {[Όνομα Φοιτητή]},
+  author = {[Χρήστος Μπεζιργιάννης]},
   school = {University of Patras, Dept. of Computer Engineering & Informatics},
   year   = {2026}
 }
